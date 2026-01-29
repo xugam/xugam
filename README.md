@@ -8,6 +8,3 @@
 
 📫 Reach me: sugamprasai9818@email.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xugam&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xugam&layout=compact&theme=tokyonight)
