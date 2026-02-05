@@ -6,5 +6,5 @@
 - 💬 Ask me about: Laravel, MySQL, REST APIs, Java, PHP, C++, C
 - ⚡ Goal: Become a solid backend engineer
 
-📫 Reach me: sugamprasai9818@email.com
+📫 Reach me: sugamprasai9818@gmail.com
 
